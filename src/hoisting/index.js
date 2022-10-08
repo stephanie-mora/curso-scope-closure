@@ -11,5 +11,3 @@ function nameOfDog(){
 }
 
 var elmo = 'Elmito';
-
-
